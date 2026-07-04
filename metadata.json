@@ -1,0 +1,10 @@
+{
+  "name": "Remix: VitalPath AI Food Scanner",
+  "description": "An AI-powered meal scanner, calorie counter, and nutrition tracker with multi-language support.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
